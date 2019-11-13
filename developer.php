@@ -59,10 +59,10 @@ background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('images/my
 <div class="bg-image"></div>
 
 <div class="bg-text">
-  <h1>Developer!</h1>
-  <h2 style="font-size:50px">R Bavitha(17311A19C0)<br>
-    Shashank(17311A19B8)<br>
-  Ajay(17311A19A7)</p>
+  <h2>Hey there!</h2>
+  <h1 style="font-size:50px">I am Harika Vajha</h1>
+  <p>A pretty optimistic tech-enthusiast and a science addict.<br> <br><br>Experimenting things irrespective of the result fascinates me.<br>
+  	<br><br> Challenges excite me in every way possible.</p>
 </div>
 
 
